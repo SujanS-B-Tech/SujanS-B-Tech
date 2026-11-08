@@ -1,216 +1,255 @@
 
-<!-- ========================================================= -->
-<!--                 GITHUB PROFILE README                    -->
-<!--                       SUJAN S                             -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# Hi there, I'm Sujan S 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:312E81,100:0891B2&text=SUJAN%20S&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20%7C%20APPLIED%20AI%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=15" />
 
-### AI & Data Science Student | Applied AI & ML | Full-Stack Developer
+<br/>
 
-Building intelligent solutions that solve real-world problems.
+<a href="https://portfolio-five-chi-sfn6zmbqal.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/sujans-b-tech">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/SujanS-B-Tech">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://portfolio-five-chi-sfn6zmbqal.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sujans-b-tech">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SujanS-B-Tech">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Building+Intelligent+Solutions;Turning+Ideas+Into+Real+World+Applications;Artificial+Intelligence+%7C+Machine+Learning;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Learn.+Build.+Innovate.+Repeat." />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SujanS-B-Tech&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hey there! I'm Sujan S
 
-I'm a B.Tech Artificial Intelligence and Data Science student passionate about developing intelligent applications and practical technology solutions.
+Welcome to my GitHub profile! 🚀
 
-- 🎓 Pursuing Artificial Intelligence & Data Science.
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
-- 🐍 Working with Python, data analysis and backend development.
-- 🌐 Building full-stack applications using React and FastAPI.
-- 🗄️ Exploring databases, API development and system architecture.
-- 🚀 Participating in hackathons and collaborative development projects.
-- 💡 Focused on continuous learning and building meaningful projects.
+I'm a **B.Tech Artificial Intelligence and Data Science student** who loves exploring technology, learning new things, and turning creative ideas into real-world applications.
 
-**My goal:** Transform ideas into useful, intelligent and scalable technology solutions.
+I'm passionate about understanding how technology works and using it to build solutions that make a difference. From experimenting with AI and Machine Learning to developing full-stack applications, I enjoy every part of the development journey.
+
+### A little about me
+
+- 🎓 I'm pursuing B.Tech in Artificial Intelligence & Data Science.
+- 🤖 I'm passionate about Artificial Intelligence, Machine Learning and Generative AI.
+- 💻 I love building projects and solving real-world problems through code.
+- 🐍 I work with Python and explore AI/ML technologies.
+- 🌐 I develop applications using React, FastAPI and PostgreSQL.
+- 🚀 I enjoy participating in hackathons and collaborating with teams.
+- 📚 I'm continuously learning, improving my skills and exploring new possibilities.
+- 💡 I believe that every project is an opportunity to learn something new.
+
+### What am I working towards?
+
+Becoming an AI & Data Science professional who can transform innovative ideas into intelligent, practical and impactful solutions.
+
+**I believe in learning by building, growing through challenges, and creating something meaningful with technology.**
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Technical Arsenal
+
+<div align="center">
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
 
-### AI, ML & Data Science
+### AI, Machine Learning & Data Science
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-412991?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-276DC3?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6E40C9?style=for-the-badge&logo=openai&logoColor=white"/>
 
-### Web Development & Backend
+### Frontend & Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,flask" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,fastapi,flask&theme=dark"/>
 
-### Databases & Tools
+### Database & Developer Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,postman,docker&theme=dark"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Veriqra AI — Intelligence Behind Brand Integrity
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Content Submission & Document Processing Engine**
+### 01. VERIQRA AI
 
-An AI-focused platform developed for the Inkloom AI Hackathon, Round 2.
+**Intelligence Behind Brand Integrity**
 
-- Content submission and document processing workflow.
-- Document processing and content verification capabilities.
-- Module 4 completion reported with 38/38 tests passing.
+AI-focused content submission and document processing platform developed for Inkloom AI Hackathon – Round 2.
+
+- Content submission workflow.
+- Document processing engine.
+- Content processing and verification capabilities.
+- Module 4 completion reported.
+- 38/38 tests passing, as reported in the project completion report.
 
 **Status:** Module 4 completed and tested.
 
-<!-- Add the repository URL when available -->
+</td>
+<td width="50%" valign="top">
 
----
+### 02. SEVASAKSHI
 
-### 2. SEVASAKSHI — AI-Powered NGO Monitoring
+**AI-Powered NGO Monitoring**
 
-**Smart Real-Time Monitoring & Inspection Platform**
+Smart real-time monitoring and inspection platform developed for Smart India Hackathon 2026.
 
-Developed for Smart India Hackathon 2026.
-
-- GPS-based, time-stamped evidence collection.
-- AI-assisted verification and duplicate-image detection.
-- Monitoring dashboards and inspection workflows.
+- GPS and time-stamped evidence collection.
+- AI-assisted verification.
+- Duplicate-image detection.
 - Offline-first synchronization.
-- Multilingual support and corrective-action tracking.
+- Monitoring dashboards.
+- Multilingual support.
 
-**Tech Stack:** React, Flutter, Python, FastAPI, PostgreSQL, PostGIS, Redis and AI/ML.
+**Stack:** React, Flutter, Python, FastAPI, PostgreSQL, PostGIS, Redis.
 
-🔗 [View Repository](https://github.com/SujanS-B-Tech/SMART-INSPECTION-SEVASAKSHI)
+[Explore Repository →](https://github.com/SujanS-B-Tech/SMART-INSPECTION-SEVASAKSHI)
 
----
+</td>
+</tr>
 
-### 3. AGRINEON AI — Smart Agriculture Solution
+<tr>
+<td width="50%" valign="top">
 
-An AI-powered agriculture project focused on supporting small and marginal farmers.
+### 03. AGRINEON AI
 
-- AI-assisted agricultural support.
-- Backend APIs using FastAPI.
-- PostgreSQL database integration.
-- JWT authentication and SQLAlchemy models.
+**AI-Powered Smart Agriculture**
 
-**Tech Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy and AI/ML.
+An agriculture-focused project designed to support small and marginal farmers.
 
-🔗 [View Repository](https://github.com/SujanS-B-Tech/AGRINEON-AI-SIH-Abstract)
+- FastAPI backend architecture.
+- PostgreSQL database.
+- JWT authentication.
+- SQLAlchemy data models.
+- AI-based agriculture solution development.
 
----
+**Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy.
 
-### 4. GestureDrive X — AI Hand Gesture Racing
+[Explore Repository →](https://github.com/SujanS-B-Tech/AGRINEON-AI-SIH-Abstract)
 
-**Real-Time Webcam-Based Racing Control System**
+</td>
+<td width="50%" valign="top">
 
-A gesture-controlled racing project designed around real-time hand tracking.
+### 04. GESTUREDRIVE X
 
-- Webcam-based hand gesture recognition.
+**AI Hand Gesture Racing System**
+
+A webcam-based racing interaction project using real-time hand gestures.
+
+- Webcam-based gesture recognition.
 - Two-hand steering interaction.
-- Gesture-based driving controls.
-- Racing-game-inspired interaction design.
+- Gesture-driven vehicle controls.
+- Computer vision interaction.
 
-**Focus:** Computer Vision, real-time interaction and gesture recognition.
+**Focus:** Computer Vision, Python, Real-Time Interaction.
 
-🔗 [View Repository](https://github.com/SujanS-B-Tech/GESTURECONTROL_NFS-EXPO)
+[Explore Repository →](https://github.com/SujanS-B-Tech/GESTURECONTROL_NFS-EXPO)
 
----
+</td>
+</tr>
 
-### 5. GeoQuest AR — Location-Based AR Treasure Hunt
+<tr>
+<td width="50%" valign="top">
 
-A browser-based augmented reality treasure hunt experience developed for a college expo.
+### 05. GEOQUEST AR
 
-- GPS-based location interaction.
+**Location-Based AR Treasure Hunt**
+
+An interactive browser-based treasure hunt experience developed for a college expo.
+
+- GPS-based interaction.
 - Camera and compass integration.
-- Browser-based experience without requiring an app installation.
-- Interactive quizzes and treasure-hunt challenges.
-- GPS accuracy handling and fallback mechanisms.
+- Browser-based experience.
+- Interactive quizzes.
+- GPS accuracy handling.
+- No app installation required.
 
-**Focus:** Web Development, Geolocation, AR Interaction and JavaScript.
+[Launch Live Project →](https://geoquest-ar.vercel.app)
 
-🌐 [Try Live Project](https://geoquest-ar.vercel.app)
+</td>
+<td width="50%" valign="top">
 
----
+### 06. DAYFLOW HRMS
 
-### 6. DayFlow HRMS — Employee Management System
+**Employee Management System**
 
-Developed during the Odoo x NMIT Bangalore Hackathon 2026.
+A collaborative HR management project developed for Odoo x NMIT Bangalore Hackathon 2026.
 
 - Employee management workflows.
 - Admin and employee interfaces.
 - FastAPI backend.
-- PostgreSQL database integration.
-- JWT-based authentication.
+- PostgreSQL integration.
+- JWT authentication.
 
-**Tech Stack:** React, Vite, Tailwind CSS, Python, FastAPI and PostgreSQL.
+**Stack:** React, Vite, Tailwind CSS, Python, FastAPI, PostgreSQL.
 
-🔗 [View Repository](https://github.com/SujanS-B-Tech/odoo-hackathon-2026-Tech-Neon)
+[Explore Repository →](https://github.com/SujanS-B-Tech/odoo-hackathon-2026-Tech-Neon)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Hackathons & Experience
+## 🏆 Hackathons & Achievements
 
 | Event | Project / Achievement |
 |---|---|
-| Smart India Hackathon 2026 | SEVASAKSHI — Team TECH NEON |
-| Inkloom AI Hackathon | Veriqra AI — Round 2 |
-| XACTITUDE 2026 | Tele AI Health Assistant — Selected for Round 2 |
-| Odoo x NMIT Hackathon 2026 | DayFlow HRMS — Team TECH NEON |
-| College Expo | GeoQuest AR — Team TECHNEON |
+| Inkloom AI Hackathon | Veriqra AI – Round 2 |
+| Smart India Hackathon 2026 | SEVASAKSHI – Team TECH NEON |
+| XACTITUDE 2026 | Tele AI Health Assistant – Selected for Round 2 |
+| Odoo x NMIT Hackathon 2026 | DayFlow HRMS – Team TECH NEON |
+| College Expo | GeoQuest AR – Team TECHNEON |
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Learning
 
-Areas covered through my certification and learning journey:
-
-- Artificial Intelligence — Google
-- Data Analysis with Python — Google
-- AI/ML — Microsoft
-- SQL Server — Microsoft
-- AI Foundations — University of Oxford
-- Generative AI, Python, Data Science, Deep Learning and NLP
+- Google – Artificial Intelligence.
+- Google – Data Analysis with Python.
+- Microsoft – Artificial Intelligence and Machine Learning.
+- Microsoft – SQL Server.
+- University of Oxford – AI Foundations.
+- Generative AI.
+- Python Programming.
+- Data Science.
+- Deep Learning.
+- Natural Language Processing.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SujanS-B-Tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/SujanS-B-Tech">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SujanS-B-Tech&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanS-B-Tech&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SujanS-B-Tech">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanS-B-Tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SujanS-B-Tech&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=SujanS-B-Tech&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -220,10 +259,7 @@ Areas covered through my certification and learning journey:
 
 <div align="center">
 
-<!-- Enable the contribution snake workflow in your repository
-     before expecting this image to display. -->
-
-<img src="https://raw.githubusercontent.com/SujanS-B-Tech/SujanS-B-Tech/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
+<img width="100%" src="https://raw.githubusercontent.com/SujanS-B-Tech/SujanS-B-Tech/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
@@ -234,19 +270,19 @@ Areas covered through my certification and learning journey:
 <div align="center">
 
 <a href="https://github.com/SujanS-B-Tech">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sujans-b-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/SujanS_B-Tech/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://portfolio-five-chi-sfn6zmbqal.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -255,8 +291,12 @@ Areas covered through my certification and learning journey:
 
 <div align="center">
 
-### "Learn continuously. Build intelligently. Create impact."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:020617&height=120&section=footer"/>
 
-⭐ Thanks for visiting my GitHub profile!
+### BUILD WITH CURIOSITY. ENGINEER WITH PURPOSE.
+
+**Learn Continuously • Build Intelligently • Create Impact**
+
+⭐ Thanks for visiting my profile!
 
 </div>
